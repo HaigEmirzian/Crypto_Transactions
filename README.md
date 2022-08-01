@@ -2,7 +2,7 @@
 
 My first project in Solidity and first time coding smart contracts
 
-The folder in this repositiory contains two of the most basic forms of currency exchange developed as smart contracts: deposit and withdrawal
+The folder in this repository contains two of the most basic forms of currency exchange developed as smart contracts: deposit and withdrawal
  
 Tested in a JavaScript virtual environment via Remix IDE
  
